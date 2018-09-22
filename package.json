@@ -4,7 +4,7 @@
   "description": "A Vue.js project",
   "author": "zyfneverforget <262829233@qq.com>",
   "private": true,
-  "homepage": "https://zyfneverforget.github.io/youzan/dist",
+  "homepage": "https://github.com/zyfneverforget/youzan/dist",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
