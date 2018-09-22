@@ -19,7 +19,7 @@ export default {
 			addressData: require('js/address.json'),
 			cityLists: null,
 			districtLists: null,
-			editing: false
+			editing: false,
 		}
 	},
 	created(){
